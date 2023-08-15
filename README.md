@@ -11,7 +11,7 @@ LIVE: https://andrzejszlachta.github.io/splash-page/
 
 ## Overview
 
-description
+Simple splash page with toggle custom backgrounds.
 
 ### Built With
 
@@ -19,7 +19,7 @@ HTML, CSS, JavaScript
 
 ## Features
 
-1. feature 1
+1. Toggle custom backgrounds
 
 ## Contact
 
@@ -27,3 +27,5 @@ andrzej.szlachta@mail.com
 https://andrzejszlachta.github.io/  
 
 ## Acknowledgements
+
+JavaScript Web Projects 20 Projects to Build Your Portfolio
